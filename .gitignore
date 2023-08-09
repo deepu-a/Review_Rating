@@ -2,7 +2,9 @@
 
 # dependencies
 /node_modules
+/ReviewAndRating
 /.pnp
+/package-lock.json
 .pnp.js
 
 # testing
